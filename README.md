@@ -1,0 +1,2 @@
+# AkilliYardimci
+Projemiz insanların ülkemizdeki mimari eserler hakkındaki bilgilere hızlı ve güvenli bir şekilde ulaşmalarına katkı sağlayacaktır. Hazırladığımız sistemde kare kodu kendi telefonlarında okutarak mimari eser hakkında bilgilere ve konum bilgisine hızlı bir şekilde ulaşabilecekler. Bu şekilde mimari eseri hem görüp hem de tarihçesiyle ilgili bilgi edinilebilecekler. Ayrıca internet sitemizde turistler için İngilizce dil seçeneği de bulunuyor.
